@@ -1,22 +1,22 @@
-
+title{
+    margin-left:20px;
+    color:black;
+}
 body {
     background: #DCDCDC;
     margin-left: 100px;
+    margin-right: 100px;
 }
 nav {
     background:rgba(56, 53, 53, 0.774);
     margin-left:10px;
-    text-decoration: none;
-
 }
 nav ol li{
     display: inline;
     font-size: 20px;
-    color:black;
-    text-decoration: none;
 }
-nav li{
-    text-decoration:none;
+header{
+    margin-top:20px;
 }
 h1{
     color:red;
@@ -28,9 +28,15 @@ h2{
 }
 p{
     font-size:18px;
-    color: black;
+    color: white;
 }
 .img_padrao{
     max-width:300px;
-    display: inline;
+    margin-bottom: 20px;
+}
+.logo{
+    width: 30px;
+}
+.footer{
+    margin-bottom: 30px;
 }
