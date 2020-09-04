@@ -1,0 +1,36 @@
+
+body {
+    background: #DCDCDC;
+    margin-left: 100px;
+}
+nav {
+    background:rgba(56, 53, 53, 0.774);
+    margin-left:10px;
+    text-decoration: none;
+
+}
+nav ol li{
+    display: inline;
+    font-size: 20px;
+    color:black;
+    text-decoration: none;
+}
+nav li{
+    text-decoration:none;
+}
+h1{
+    color:red;
+    font-family:fantasy;
+    margin-left:20px;
+}
+h2{
+    font-family:fantasy;
+}
+p{
+    font-size:18px;
+    color: black;
+}
+.img_padrao{
+    max-width:300px;
+    display: inline;
+}
